@@ -8,6 +8,8 @@ public class Hello {
 		int a = 3;
 		int c = 290;
 		int b = 5;
+		int j = 900;
+		
 		System.out.println("Hello World!" + (a + b));
 		Carro carro = new Carro();
 	}
